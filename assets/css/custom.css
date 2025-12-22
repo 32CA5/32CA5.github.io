@@ -1,0 +1,15 @@
+/* ===== 强制拉宽 Education / Experience 卡片 ===== */
+
+/* 控制整个内容区域最大宽度 */
+.section-experience .container,
+.section-education .container {
+    max-width: 1200px;
+    /* 默认只有 900 左右 */
+}
+
+/* 控制单个卡片宽度 */
+.section-experience .card,
+.section-education .card {
+    max-width: 560px;
+    /* 原来大约 360~400 */
+}
