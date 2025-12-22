@@ -29,13 +29,13 @@ interests: []
 education:
   - degree: "MS Engineering in Mechanical Engineering"
     institution: "Huazhong University of Science and Technology"
-    start: "2024"
-    end: "2027"
+    start: "2024-09-01"
+    end: ""
     summary: ""
   - degree: "BS Engineering in Mechanical Design, Manufacturing and Automation"
     institution: "Dalian University of Technology"
-    start: "2020"
-    end: "2024"
+    start: "2020-09-01"
+    end: "2024-06-30"
     summary: ""
 experience:
   - role: "Senior AI Research Scientist"
