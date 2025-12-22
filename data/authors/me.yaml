@@ -3,46 +3,29 @@ slug: "me"
 is_owner: true
 name:
   display: "韩思源"
-  given: "Alex"
-  family: "Johnson"
-  alternate: ""
+  given: "Sivan"
+  family: "Han"
+  alternate: "韩思源"
   pronunciation: ""
-  pronouns: "he/him"
-postnominals:
-  - "PhD"
-  - "MIEEE"
+  pronouns: ""
 status:
-  icon: "☕️"
-role: "Senior AI Research Scientist"
-bio: "Alex Johnson is a Senior AI Research Scientist at Meta AI. His research
-
-  has been published in top conferences like NeurIPS and ICML, with over
-
-  10,000 citations. Alex is passionate about pushing the boundaries of AI
-
-  while ensuring ethical development.\n"
+  icon: "⚡"
+role: ""
+bio: "I am a master's student in Mechanical Engineering at Huazhong University of Science and Technology. My research focus is on the design of precise mechanical structures and system integration. During my internship at Shenzhen Bay Laboratory, I participated in the development of the mechanical structure for the PET system for brain function imaging in a conscious state of mice. Focusing on the imaging stability requirements under the condition of conscious movement, I was responsible for and completed the structural design and prototype construction of the fixation, restraint, and movement mechanisms. Additionally, I have been engaged in DIY projects related to robots and mechanical systems for a long time, paying attention to the collaborative design of structure, control, and system."
 affiliations:
-  - name: "Meta AI"
-    url: "https://ai.meta.com/"
+  - name: "School of Mechanical Science & Engineering of HUST"
+    url: "https://mse.hust.edu.cn/"
 links:
   - icon: "at-symbol"
-    url: "mailto:alex.johnson@example.com"
+    url: "mailto:hsy_sx@163.com"
     label: "E-mail Me"
-  - icon: "brands/x"
-    url: "https://x.com/example"
   - icon: "brands/github"
-    url: "https://github.com/example"
-  - icon: "brands/linkedin"
-    url: "https://www.linkedin.com/in/example/"
-  - icon: "academicons/google-scholar"
-    url: "https://scholar.google.com/citations?user=example"
-  - icon: "academicons/orcid"
-    url: "https://orcid.org/0000-0002-1825-0097"
-interests:
-  - "Large Language Models"
-  - "Computer Vision"
-  - "Reinforcement Learning"
-  - "AI Ethics"
+    url: "https://github.com/32CA5"
+    label: "GitHub"
+  - icon: "assets\\media\\icons\\brands\\wechat.svg"
+    url: "static\\img\\wechat_qr.png"
+    label: "Wechat"
+interests: []
 education:
   - degree: "PhD Computer Science"
     institution: "Stanford University"
@@ -78,18 +61,10 @@ experience:
 skills:
   - name: "Technical Skills"
     items:
-      - label: "Python"
-        level: 5
-      - label: "Machine Learning"
-        level: 5
-      - label: "Cloud Computing"
-        level: 4
+      - label: "1"
+        level: 1
   - name: "Research & Communication"
     items:
-      - label: "Academic Writing"
-        level: 5
-      - label: "Conference Presentations"
-        level: 4
       - label: "Grant Proposals"
         level: 4
 languages:
@@ -105,3 +80,4 @@ awards:
     date: "2022-12-01"
     summary: "Awarded for groundbreaking work on efficient training of large models."
     icon: "hero/trophy"
+weight: null
