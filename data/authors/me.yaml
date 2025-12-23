@@ -15,8 +15,8 @@ bio: "韩思源｜华中科技大学机械科学与工程学院 2024 级硕士�
 
   现于深圳湾实验室实习，机械结构工程师。"
 affiliations:
-  - name: "School of Mechanical Science & Engineering of HUST"
-    url: "https://mse.hust.edu.cn/"
+  - name: "华中科技大学 机械科学与工程学院"
+    url: ""
 links:
   - icon: "at-symbol"
     url: "mailto:hsy_sx@163.com"
@@ -37,7 +37,7 @@ education:
   - degree: "学士 机械设计制造及其制动化"
     institution: "大连理工大学"
     start: "2020-09-01"
-    end: " 2024-06-30"
+    end: "2024-06-30"
     summary: ""
 experience:
   - role: "Senior AI Research Scientist"
