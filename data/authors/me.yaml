@@ -11,7 +11,9 @@ name:
 status:
   icon: "⚡"
 role: ""
-bio: "I am a master's student in Mechanical Engineering at Huazhong University of Science and Technology. My research focus is on the design of precise mechanical structures and system integration. During my internship at Shenzhen Bay Laboratory, I participated in the development of the mechanical structure for the PET system for brain function imaging in a conscious state of mice. Focusing on the imaging stability requirements under the condition of conscious movement, I was responsible for and completed the structural design and prototype construction of the fixation, restraint, and movement mechanisms. Additionally, I have been engaged in DIY projects related to robots and mechanical systems for a long time, paying attention to the collaborative design of structure, control, and system."
+bio: "韩思源｜华中科技大学机械科学与工程学院 2024 级硕士生
+
+  现于深圳湾实验室实习，机械结构工程师。"
 affiliations:
   - name: "School of Mechanical Science & Engineering of HUST"
     url: "https://mse.hust.edu.cn/"
@@ -27,15 +29,15 @@ links:
     label: "Wechat"
 interests: []
 education:
-  - degree: "MS Engineering in Mechanical Engineering"
-    institution: "Huazhong University of Science and Technology"
+  - degree: "硕士 机械工程"
+    institution: "华中科技大学"
     start: "2024-09-01"
     end: ""
     summary: ""
-  - degree: "BS Engineering in Mechanical Design, Manufacturing and Automation"
-    institution: "Dalian University of Technology"
+  - degree: "学士 机械设计制造及其制动化"
+    institution: "大连理工大学"
     start: "2020-09-01"
-    end: "2024-06-30"
+    end: " 2024-06-30"
     summary: ""
 experience:
   - role: "Senior AI Research Scientist"
@@ -51,26 +53,7 @@ experience:
     start: "2019-06-01"
     end: "2019-12-31"
     summary: "Worked on GPT-3 scaling. Co-authored paper on prompt engineering.\n"
-skills:
-  - name: "Technical Skills"
-    items:
-      - label: "1"
-        level: 1
-  - name: "Research & Communication"
-    items:
-      - label: "Grant Proposals"
-        level: 4
-languages:
-  - name: "English"
-    level: 5
-    label: "Native"
-  - name: "Spanish"
-    level: 4
-    label: "Fluent"
-awards:
-  - title: "Best Paper Award"
-    awarder: "NeurIPS"
-    date: "2022-12-01"
-    summary: "Awarded for groundbreaking work on efficient training of large models."
-    icon: "hero/trophy"
+skills: []
+languages: []
+awards: []
 weight: null
