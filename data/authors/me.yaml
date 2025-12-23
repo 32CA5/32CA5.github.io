@@ -13,7 +13,6 @@ status:
 role: ""
 bio: "
   韩思源｜华中科技大学机械科学与工程学院 2024 级硕士生
-
   现于深圳湾实验室实习，机械结构工程师。"
 affiliations:
   - name: "华中科技大学 机械科学与工程学院"
@@ -25,8 +24,8 @@ links:
   - icon: "brands/github"
     url: "https://github.com/32CA5"
     label: "GitHub"
-  - icon: "brands/wechat"
-    url: "baidu.com"
+  - icon: "wechat"
+    url: "/uploads/wechat_qr.png"
     label: "Wechat"
 interests: []
 education:
