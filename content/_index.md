@@ -19,9 +19,9 @@ sections:
         text: 下载简历
         url: uploads/resume.pdf
       headings:
-        about: ""
-        education: ""
-        interests: ""
+        about: "个人简介"
+        education: "教育背景"
+        # interests: ""
     design:
       # Use the new Gradient Mesh which automatically adapts to the selected theme colors
       background:
