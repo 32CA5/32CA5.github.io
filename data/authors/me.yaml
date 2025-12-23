@@ -24,7 +24,7 @@ links:
   - icon: "brands/github"
     url: "https://github.com/32CA5"
     label: "GitHub"
-  - icon: "wechat"
+  - icon: "brands/wechat"
     url: "/uploads/wechat_qr.png"
     label: "Wechat"
 interests: []
