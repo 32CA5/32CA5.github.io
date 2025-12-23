@@ -41,13 +41,13 @@ education:
 experience:
   - role: "机械结构工程师"
     org: "深圳湾实验室"
-    start: "2025-01"
-    end: "2026-01"
+    start: "2025-01-06"
+    end: "2026-01-05"
     summary: "参与小鼠清醒状态脑功能 PET 系统的配套机电结构开发。\n"
-    # button:
-    #   text: "View portfolio"
-    #   url: "/"
-    #   icon: "hero/arrow-down-tray"
+  #   button:
+  #     text: "View portfolio"
+  #     url: "/"
+  #     icon: "hero/arrow-down-tray"
 
 skills: []
 languages: []
