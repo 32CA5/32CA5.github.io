@@ -23,6 +23,7 @@ sections:
         education: "教育背景"
         # interests: ""
     design:
+      date_format: "2006.01"
       # Use the new Gradient Mesh which automatically adapts to the selected theme colors
       background:
         gradient_mesh:
