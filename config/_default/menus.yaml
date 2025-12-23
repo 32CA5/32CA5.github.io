@@ -4,15 +4,15 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: Bio
+  - name: 简介
     identifier: EZoW1wU6
-    url: /
+    url: https://32ca5.github.io/
     weight: 10
-  - name: Experience
+  - name: 经历
     identifier: HveVTAZu
-    url: experience/
+    url: https://32ca5.github.io/experience/
     weight: 20
-  - name: Projects
+  - name: 项目
     identifier: rNU45oRx
-    url: projects/
+    url: https://32ca5.github.io/projects/
     weight: 30
