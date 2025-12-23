@@ -12,7 +12,7 @@ status:
   icon: "⚡"
 role: ""
 bio: "
-  韩思源｜华中科技大学机械科学与工程学院 2024 级硕士生。
+  韩思源｜华中科技大学机械科学与工程学院 2024 级硕士生。\n
   现于深圳湾实验室实习，机械结构工程师。"
 affiliations:
   - name: "华中科技大学 机械科学与工程学院"
@@ -31,28 +31,28 @@ interests: []
 education:
   - degree: "硕士 机械工程"
     institution: "华中科技大学"
-    start: "2024-09-01"
+    start: "2024"
     end: ""
     summary: ""
   - degree: "学士 机械设计制造及其制动化"
     institution: "大连理工大学"
-    start: "2020-09-01"
-    end: "2024-06-30"
+    start: "2020"
+    end: "2024"
     summary: ""
 experience:
-  - role: "Senior AI Research Scientist"
-    org: "Meta AI"
-    start: "2020-01-01"
-    summary: "Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models.\n"
-    button:
-      text: "View portfolio"
-      url: "/"
-      icon: "hero/arrow-down-tray"
-  - role: "AI Research Intern"
-    org: "OpenAI"
-    start: "2019-06-01"
-    end: "2019-12-31"
-    summary: "Worked on GPT-3 scaling. Co-authored paper on prompt engineering.\n"
+  # - role: "Senior AI Research Scientist"
+  #   org: "Meta AI"
+  #   start: "2020-01-01"
+  #   summary: "Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models.\n"
+  #   button:
+  #     text: "View portfolio"
+  #     url: "/"
+  #     icon: "hero/arrow-down-tray"
+  - role: "机械结构工程师"
+    org: "深圳湾实验室"
+    start: "2025-01"
+    end: "2026-01"
+    summary: "参与小鼠清醒状态脑功能 PET 系统的配套机电结构开发。\n"
 skills: []
 languages: []
 awards: []
