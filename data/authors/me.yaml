@@ -27,21 +27,23 @@ links:
   - icon: "brands/wechat"
     url: "/uploads/wechat_qr.png"
     label: "Wechat"
-interests:
-  - "机器人"
-  - "机械结构"
-  - "镜头"
+# interests:
+#   - "机器人"
+#   - "机械结构"
+#   - "镜头"
 education:
   - degree: "硕士 机械工程"
     institution: "华中科技大学"
     start: "2024-09-01"
     end: ""
     summary: ""
+    logo: hust.png
   - degree: "学士 机械设计制造及其制动化"
     institution: "大连理工大学"
     start: "2020-09-01"
     end: "2024-06-30"
     summary: ""
+    logo: dlut.png
 experience:
   - role: "机械结构工程师"
     org: "深圳湾实验室"
