@@ -21,7 +21,7 @@ sections:
       headings:
         about: "个人简介"
         education: "教育背景"
-        # interests: ""
+        interests: "兴趣"
     design:
       # Use the new Gradient Mesh which automatically adapts to the selected theme colors
       background:
