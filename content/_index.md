@@ -87,7 +87,7 @@ sections:
       # Page type to display. E.g. post, talk, publication...
       page_type: projects
       # Choose how many pages you would like to display (0 = all pages)
-      count: 10
+      count: 0
       # Filter on criteria
       filters:
         author: ''
