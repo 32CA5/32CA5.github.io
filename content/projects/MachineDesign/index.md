@@ -1,13 +1,12 @@
 ---
-title: PyTorch
-date: 2023-10-26
-links:
-  - type: site
-    url: https://github.com/pytorch/pytorch
+title: 曲柄滑块压力机
+date: 2023-07-13
+authors:
+  - me
 tags:
-  - Hugo
-  - HugoBlox
-  - Markdown
+  - 机械设计
+  - 建模制图
+  - 强度校核
 ---
 
 PyTorch is a Python package that provides tensor computation (like NumPy) with strong GPU acceleration.
