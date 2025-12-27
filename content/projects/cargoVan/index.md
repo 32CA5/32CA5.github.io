@@ -22,3 +22,6 @@ _比赛图片_
 _全向轮移动底盘设计_
 
 <img src="index.assets/奖状.jpg" alt="奖状" style="zoom: 15%;" />
+
+
+_获奖证书_
