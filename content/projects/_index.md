@@ -1,6 +1,6 @@
 ---
 title: 'Projects'
-date: 2024-05-19
+date: 2026-01-03
 type: landing
 
 design:
@@ -12,6 +12,7 @@ sections:
   - block: collection
     content:
       title: 项目经历
+      count: 0
     #   text: I enjoy making things. Here are a selection of projects that I have worked on over the years.
       filters:
         folders:
