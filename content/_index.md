@@ -78,7 +78,7 @@ sections:
   #         - events
   #   design:
   #     view: card
-sections:
+
   - block: resume-experience
     content:
       username: me
