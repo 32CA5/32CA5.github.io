@@ -21,6 +21,7 @@ sections:
       headings:
         about: "个人简介"
         education: "教育背景"
+        experience: "工作经历"
         # interests: "兴趣"
     design:
       # Use the new Gradient Mesh which automatically adapts to the selected theme colors
@@ -82,21 +83,21 @@ sections:
     id: projects
     content:
       title: 项目经历
-      subtitle: ''
-      text: ''
+      subtitle: ""
+      text: ""
       # Page type to display. E.g. post, talk, publication...
       page_type: projects
       # Choose how many pages you would like to display (0 = all pages)
       count: 0
       # Filter on criteria
       filters:
-        author: ''
-        category: ''
-        tag: ''
+        author: ""
+        category: ""
+        tag: ""
         exclude_featured: false
         exclude_future: false
         exclude_past: false
-        publication_type: ''
+        publication_type: ""
       # Choose how many pages you would like to offset by
       offset: 0
       # Page order: descending (desc) or ascending (asc) date.
