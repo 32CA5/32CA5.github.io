@@ -21,7 +21,6 @@ sections:
       headings:
         about: "个人简介"
         education: "教育背景"
-        experience: "工作经历"
         # interests: "兴趣"
     design:
       # Use the new Gradient Mesh which automatically adapts to the selected theme colors
@@ -79,6 +78,14 @@ sections:
   #         - events
   #   design:
   #     view: card
+  - block: resume-experience
+    content:
+      username: me
+      title: "工作经历"
+    design:
+      date_format: "2006-01"
+      is_education_first: false
+
   - block: collection
     id: projects
     content:
