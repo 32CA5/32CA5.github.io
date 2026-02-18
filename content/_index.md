@@ -78,12 +78,18 @@ sections:
   #         - events
   #   design:
   #     view: card
+sections:
   - block: resume-experience
     content:
       username: me
-      title: "工作经历"
+      headings:
+        experience: "工作经历"
+        # education: "教育背景"
     design:
-      date_format: "2006-01"
+      # Hugo date format
+      # date_format: "January 2006"
+      date_format: "2006.01"
+      # Education or Experience section first?
       is_education_first: false
 
   - block: collection
