@@ -15,9 +15,9 @@ sections:
       username: me
       text: ""
       # Show a call-to-action button under your biography? (optional)
-      button:
-        text: 下载简历
-        url: uploads/resume.pdf
+      # button:
+      #   text: 下载简历
+      #   url: uploads/resume.pdf
       headings:
         about: "个人简介"
         education: "教育背景"
