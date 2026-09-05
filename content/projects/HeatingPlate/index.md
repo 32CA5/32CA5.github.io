@@ -1,6 +1,6 @@
 ---
 title: 加热台
-date: 2021-08-03
+date: 2025-07-08
 authors:
   - me
 tags:
