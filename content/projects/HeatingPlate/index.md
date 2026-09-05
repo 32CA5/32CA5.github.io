@@ -4,8 +4,7 @@ date: 2025-07-08
 authors:
   - me
 tags:
-  - 机械建模
-  - Inventor
+  - 外壳设计
 ---
 
 > 项目来源于GitHub找羊开源加热台，并进行结构优化。
